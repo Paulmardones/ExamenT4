@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "386598767676",
+    "firebase_url": "https://bici-8307b-default-rtdb.firebaseio.com",
+    "project_id": "bici-8307b",
+    "storage_bucket": "bici-8307b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386598767676:android:231d71899766968666c739",
+        "android_client_info": {
+          "package_name": "cl.paul.examen3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMX4e2LmYfUamYOEkEdphwv1QwCERTBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386598767676:android:3fe958a58f1b8daa66c739",
+        "android_client_info": {
+          "package_name": "cl.paul.exament4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMX4e2LmYfUamYOEkEdphwv1QwCERTBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
